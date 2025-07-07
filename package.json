@@ -1,0 +1,11 @@
+{
+  "name": "echo-autobe-radio",
+  "version": "1.0.0",
+  "description": "Echo Autobe Radio Station",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
